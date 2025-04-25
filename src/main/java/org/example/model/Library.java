@@ -3,7 +3,6 @@ package org.example.model;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.extern.log4j.Log4j;
-import org.example.Main;
 import org.example.exception.BookNotFoundException;
 import org.example.exception.MemberNotFoundException;
 
