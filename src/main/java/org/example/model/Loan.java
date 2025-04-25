@@ -9,7 +9,6 @@ public class Loan {
 
     private String isbn;
     private String loanDate;
-
     private String returnDate;
 
 }
